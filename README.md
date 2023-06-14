@@ -6,7 +6,7 @@ Media App
 
 ## Description
 
-This application is built in React and utilizes the Fetch API for server communication. Leveraging the power of Rtk Query, it allows you to perform operations such as delete (DELETE), update (PUT), and create (POST) using asynchronous thunk actions. By working with the Fetch API and manipulating data through Rtk Query, you have gained valuable skills in handling API requests and managing state in a React application.
+This application is a React-based web application that utilizes the Fetch API for seamless server communication. By leveraging the power of Rtk Query, I have implemented functionalities for performing operations like delete (DELETE), update (PUT), and create (POST) using asynchronous thunk actions.
 
 ## Installation
 
